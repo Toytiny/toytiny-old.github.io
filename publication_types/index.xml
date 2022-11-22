@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Huang Ziyuan 黄子渊</title>
+    <link>http://huang-ziyuan.github.io/publication_types/</link>
+      <atom:link href="http://huang-ziyuan.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2022 Huang Ziyuan</copyright><lastBuildDate>Thu, 02 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://huang-ziyuan.github.io/media/icon_huf4aaa2ef5e122dd066bbee378b3f57ca_113000_512x512_fill_lanczos_center_2.png</url>
+      <title>Publication_types</title>
+      <link>http://huang-ziyuan.github.io/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>

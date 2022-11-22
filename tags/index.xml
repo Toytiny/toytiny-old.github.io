@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Huang Ziyuan 黄子渊</title>
-    <link>http://huang-ziyuan.github.io/tags/</link>
-      <atom:link href="http://huang-ziyuan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags | Luo Mai</title>
+    <link>https://luomai.github.io/tags/</link>
+      <atom:link href="https://luomai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2022 Huang Ziyuan</copyright><lastBuildDate>Thu, 02 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://huang-ziyuan.github.io/media/icon_huf4aaa2ef5e122dd066bbee378b3f57ca_113000_512x512_fill_lanczos_center_2.png</url>
+      <url>https://luomai.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
-      <link>http://huang-ziyuan.github.io/tags/</link>
+      <link>https://luomai.github.io/tags/</link>
     </image>
     
   </channel>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luo Mai (麦络) | Luo Mai</title>
+    <link>https://luomai.github.io/author/luo-mai-%E9%BA%A6%E7%BB%9C/</link>
+      <atom:link href="https://luomai.github.io/author/luo-mai-%E9%BA%A6%E7%BB%9C/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luo Mai (麦络)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://luomai.github.io/author/luo-mai-%E9%BA%A6%E7%BB%9C/avatar_hua0d4d4b24f4da3a102e4452ac738b95f_231267_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Luo Mai (麦络)</title>
+      <link>https://luomai.github.io/author/luo-mai-%E9%BA%A6%E7%BB%9C/</link>
+    </image>
+    
+    <item>
+      <title>Move Fast and Meet Deadlines: Fine-grained Real-time Stream Processing with Cameo</title>
+      <link>https://luomai.github.io/publication/2021-nsdi-cameo/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2021-nsdi-cameo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KungFu: Making Training in Distributed Machine Learning Adaptive</title>
+      <link>https://luomai.github.io/publication/2020-osdi-kungfu/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2020-osdi-kungfu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spotnik: Designing Distributed Machine Learning for Transient Cloud Resources</title>
+      <link>https://luomai.github.io/publication/2020-hotcloud-spotnik/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2020-hotcloud-spotnik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CrossBow: Scaling Deep Learning with Small Batch Sizes on Multi-GPU Servers</title>
+      <link>https://luomai.github.io/publication/2019-vldb-crossbow/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2019-vldb-crossbow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taming Hyper-parameters in Deep Learning Systems</title>
+      <link>https://luomai.github.io/publication/2019-osr-review/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2019-osr-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chi: A Scalable and Programmable Control Plane for Distributed Stream Processing Systems</title>
+      <link>https://luomai.github.io/publication/2018-vldb-chi/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2018-vldb-chi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emu: Rapid Prototyping of Networking Services</title>
+      <link>https://luomai.github.io/publication/2017-atc-emu/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2017-atc-emu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorLayer: A Versatile Library for Efficient Deep Learning Development</title>
+      <link>https://luomai.github.io/publication/2017-multimedia-tensorlayer/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2017-multimedia-tensorlayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flick: Developing and Running Application-specific Network Services </title>
+      <link>https://luomai.github.io/publication/2016-atc-flick/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2016-atc-flick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Network Performance in Distributed Machine Learning</title>
+      <link>https://luomai.github.io/publication/2015-hotcloud-mlnet/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2015-hotcloud-mlnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NetAgg: Using Middleboxes for Application-specific On-path Aggregation in Data Centres</title>
+      <link>https://luomai.github.io/publication/2014-conext-netagg/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2014-conext-netagg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Time-malleability in Cloud-based Batch Processing Systems</title>
+      <link>https://luomai.github.io/publication/2013-ladis-mai/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2013-ladis-mai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Load Balanced Rendezvous Data Collection in Wireless Sensor Networks</title>
+      <link>https://luomai.github.io/publication/2011-mass-mai/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2011-mass-mai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

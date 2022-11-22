@@ -1,35 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Huang Ziyuan 黄子渊</title>
-    <link>http://huang-ziyuan.github.io/project/</link>
-      <atom:link href="http://huang-ziyuan.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Luo Mai</title>
+    <link>https://luomai.github.io/project/</link>
+      <atom:link href="https://luomai.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2022 Huang Ziyuan</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://huang-ziyuan.github.io/media/icon_huf4aaa2ef5e122dd066bbee378b3f57ca_113000_512x512_fill_lanczos_center_2.png</url>
+      <url>https://luomai.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>http://huang-ziyuan.github.io/project/</link>
+      <link>https://luomai.github.io/project/</link>
     </image>
     
     <item>
-      <title>External Project</title>
-      <link>http://huang-ziyuan.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://huang-ziyuan.github.io/project/external-project/</guid>
-      <description></description>
+      <title>Quiver</title>
+      <link>https://luomai.github.io/project/quiver/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/project/quiver/</guid>
+      <description>&lt;p&gt;The primary motivation for the Quiver project is to make it easy to take a PyG script and scale it across many GPUs and CPUs. A typical scenario is: Quiver users can leverage the high-level APIs and rich examples of PyG to design graph learning algorithms, and then use Quiver to scale PyG algorithms to run at large scale. To make such scaling efficient, Quiver has several features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;High performance&lt;/strong&gt;: Quiver enables GPUs to be efficiently used in accelerating performance-critical graph learning tasks: graph sampling, feature collection and data-parallel training. Quiver thus can out-perform PyG and DGL even with a single GPU, especially when processing large-scale datasets and models.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;High scalability&lt;/strong&gt;: Quiver can achieve (super) linear scalability in distributed graph learning. This is contributed by Quiver&amp;rsquo;s novel communication-efficient data/processor management techniques and effective usage of fast networking technologies (e.g., NVLink and RDMA).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Easy to use&lt;/strong&gt;: Quiver requires only a few new lines of code in existing PyG programs and it has no external heavy dependency. Quiver is thus easy to be adopted by PyG users and integrated into production clusters.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>http://huang-ziyuan.github.io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://huang-ziyuan.github.io/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>KungFu</title>
+      <link>https://luomai.github.io/project/kungfu/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/project/kungfu/</guid>
+      <description>&lt;p&gt;Today&amp;rsquo;s machine learning systems must cope with growing complex models and increasingly complicated deployment environments, making them difficult to constantly deliver high performance with an empirical configuration. To address this, KungFu enables machine learning users to realise adaptive distributed training policies using high-level training monitoring and control APIs. KungFu has a fast and scalable runtime which can automatically scale out policy execution onto distributed GPU servers. Large-scale cluster experiments show that KungFu not only enables real-world adaptive training use cases, but also out-performs state-of-the-art distributed training systems including Horovod and Parameters Servers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TensorLayer</title>
+      <link>https://luomai.github.io/project/tensorlayer/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/project/tensorlayer/</guid>
+      <description>&lt;p&gt;TensorLayer is a popular open-source TensorFlow-based deep learning and reinforcement library. It provides rich neural layers, pre-trained neural networks, data processing, model management and distributed training to facilitate the development of a wide spectrum of deep learning algorithms. TensorLayer has a transparent and flexible programming model, and thus suitable to customise deep neural networks for deployment and research purposes. It exhibits superior performance due to the low-cost integration with the TensorFlow backend. TensorLayer is easy to learn by providing massive tutorials, examples and real-world application codes. Since open-sourced in 2017, it has attracted more than 300,000 downloads, 6000 stars on Github, and 90 contributors around the world. TensorLayer is recently awarded the 2017 best open-source software by the prestigious ACM multimedia community.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HyperPose</title>
+      <link>https://luomai.github.io/project/hyperpose/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/project/hyperpose/</guid>
+      <description>&lt;p&gt;Estimating human pose is a core task in many multimedia applications.
+To fully achieve its promise,
+users often need to customise pose estimation systems for
+best possible accuracy, and optimise the systems so that they can achieve real-time processing
+of high-resolution video streams.
+To meet these needs, we introduce HyperPose, a library for building pose estimation systems.
+HyperPose provides a large collection of high-level APIs to help
+users develop pose estimation algorithms that can achieve high
+accuracy in the wild.
+HyperPose further provides a high-performance algorithm execution engine.
+This engine has a high-performance dataflow for
+executing pose estimation algorithms. It dynamically
+dispatches dataflow operators onto CPUs/GPUs, which maximises
+hardware efficiency, thus achieving real-time processing. Evaluation result show that HyperPose allows users
+to declare many useful pose estimation algorithms. It also
+out-performs the performance of state-of-the-art pose estimation systems by up to 3.1x.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RLzoo</title>
+      <link>https://luomai.github.io/project/rlzoo/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/project/rlzoo/</guid>
+      <description>&lt;p&gt;Deep Reinforcement Learning (DRL) has become the foundation of many multimedia applications. To fully achieve its promise, multi-media users are looking for a library that allows them to efficiently design and test DRL agents and integrate the agents into their ap-plications. In this project, we introduce RLzoo, a novel DRL library that makes it easy to design, test and deploy DRL agents. RLzoo has high-level expressive APIs which enable its users to efficiently develop DRL agents. RLzoo users can leverage an automatic agent construction algorithm to seamlessly adopt custom agent modules,e.g., custom neural networks, which is the key for tuning agents for achieving the best possible performance. RLzoo users can access a large number of pre-implemented DRL environments and algorithms, making it a comprehensive DRL platform. On this platform,users can further easily manage and tune DRL agents through an interactive training terminal. Evaluation results show that: com-pared to existing DRL libraries, RLzoo not only achieves a high degree of abstraction in its API design. It also provides numerous useful DRL algorithms and environments which are not available in other libraries.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CrossBow</title>
+      <link>https://luomai.github.io/project/crossbow/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/project/crossbow/</guid>
+      <description>&lt;p&gt;Deep learning models are trained on servers with many GPUs, and training must scale with the number of GPUs. Systems such as TensorFlow and Caffe2 train models with parallel synchronous stochastic gradient descent: they process a batch of training data at a time, partitioned across GPUs, and average the resulting partial gradients to obtain an updated global model. To fully utilise all GPUs, systems must increase the batch size, which hinders statistical efficiency. Users tune hyper-parameters such as the learning rate to compensate for this, which is complex and model-specific.
+We introduce Crossbow, a new single-server multi-GPU system for training deep learning models that enables users to freely choose their preferred batch size&amp;mdash;however small&amp;mdash;while scaling to multiple GPUs. Crossbow uses many parallel model replicas and avoids reduced statistical efficiency through a new synchronous training method. We introduce SMA, a synchronous variant of model averaging in which replicas independently explore the solution space with gradient descent, but adjust their search synchronously based on the trajectory of a globally-consistent average model. Crossbow achieves high hardware efficiency with small batch sizes by potentially training multiple model replicas per GPU, automatically tuning the number of replicas to maximise throughput. our experiments show that Crossbow improves the training time of deep learning models on an 8-GPU server by 1.3&amp;ndash;4X compared to TensorFlow.&lt;/p&gt;
 </description>
     </item>
     

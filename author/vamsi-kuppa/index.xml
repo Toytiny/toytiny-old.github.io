@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vamsi Kuppa | Luo Mai</title>
+    <link>https://luomai.github.io/author/vamsi-kuppa/</link>
+      <atom:link href="https://luomai.github.io/author/vamsi-kuppa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vamsi Kuppa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://luomai.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Vamsi Kuppa</title>
+      <link>https://luomai.github.io/author/vamsi-kuppa/</link>
+    </image>
+    
+    <item>
+      <title>Chi: A Scalable and Programmable Control Plane for Distributed Stream Processing Systems</title>
+      <link>https://luomai.github.io/publication/2018-vldb-chi/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2018-vldb-chi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

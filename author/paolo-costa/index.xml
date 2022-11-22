@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paolo Costa | Luo Mai</title>
+    <link>https://luomai.github.io/author/paolo-costa/</link>
+      <atom:link href="https://luomai.github.io/author/paolo-costa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paolo Costa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://luomai.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Paolo Costa</title>
+      <link>https://luomai.github.io/author/paolo-costa/</link>
+    </image>
+    
+    <item>
+      <title>CrossBow: Scaling Deep Learning with Small Batch Sizes on Multi-GPU Servers</title>
+      <link>https://luomai.github.io/publication/2019-vldb-crossbow/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2019-vldb-crossbow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chi: A Scalable and Programmable Control Plane for Distributed Stream Processing Systems</title>
+      <link>https://luomai.github.io/publication/2018-vldb-chi/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2018-vldb-chi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emu: Rapid Prototyping of Networking Services</title>
+      <link>https://luomai.github.io/publication/2017-atc-emu/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2017-atc-emu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flick: Developing and Running Application-specific Network Services </title>
+      <link>https://luomai.github.io/publication/2016-atc-flick/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2016-atc-flick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Network Performance in Distributed Machine Learning</title>
+      <link>https://luomai.github.io/publication/2015-hotcloud-mlnet/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2015-hotcloud-mlnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NetAgg: Using Middleboxes for Application-specific On-path Aggregation in Data Centres</title>
+      <link>https://luomai.github.io/publication/2014-conext-netagg/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2014-conext-netagg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Time-malleability in Cloud-based Batch Processing Systems</title>
+      <link>https://luomai.github.io/publication/2013-ladis-mai/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2013-ladis-mai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics Systems | Luo Mai</title>
+    <link>https://luomai.github.io/tag/data-analytics-systems/</link>
+      <atom:link href="https://luomai.github.io/tag/data-analytics-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Analytics Systems</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://luomai.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Data Analytics Systems</title>
+      <link>https://luomai.github.io/tag/data-analytics-systems/</link>
+    </image>
+    
+    <item>
+      <title>Chi: A Scalable and Programmable Control Plane for Distributed Stream Processing Systems</title>
+      <link>https://luomai.github.io/publication/2018-vldb-chi/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2018-vldb-chi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flick: Developing and Running Application-specific Network Services </title>
+      <link>https://luomai.github.io/publication/2016-atc-flick/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2016-atc-flick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NetAgg: Using Middleboxes for Application-specific On-path Aggregation in Data Centres</title>
+      <link>https://luomai.github.io/publication/2014-conext-netagg/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2014-conext-netagg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

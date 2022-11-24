@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Luo Mai</title>
+    <link>https://luomai.github.io/post/</link>
+      <atom:link href="https://luomai.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Sep 2022 13:35:37 +0100</lastBuildDate>
+    <image>
+      <url>https://luomai.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://luomai.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>TorchOpt and papers are accepted to NeurIPS 2022</title>
+      <link>https://luomai.github.io/post/22-settling-neurips/</link>
+      <pubDate>Sat, 10 Sep 2022 13:35:37 +0100</pubDate>
+      <guid>https://luomai.github.io/post/22-settling-neurips/</guid>
+      <description>&lt;p&gt;Our paper &amp;ldquo;A Theoretical Understanding of Gradient Bias in Meta-Reinforcement Learning&amp;rdquo; is accepted by NeurIPS 2022. This paper is based on our recently released system for differential optimisation: 
+&lt;a href=&#34;https://github.com/metaopt/torchopt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TorchOpt&lt;/a&gt;. TorchOpt is accepted as a paper by the 14th International Workshop for Optimization for Machine Learning (OPT) co-located with NeurIPS 2022.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MegBA in ECCV 2022</title>
+      <link>https://luomai.github.io/post/22-megba-eccv/</link>
+      <pubDate>Sun, 10 Jul 2022 13:35:37 +0100</pubDate>
+      <guid>https://luomai.github.io/post/22-megba-eccv/</guid>
+      <description>&lt;p&gt;Our Paper &amp;ldquo;MegBA: A GPU-Based Distributed Library for Large-Scale Bundle Adjustment&amp;rdquo; is accepted by ECCV 2022. ECCV is considered to be one of the top conferences in computer vision, alongside CVPR and ICCV.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ekko in OSDI 2022</title>
+      <link>https://luomai.github.io/post/22-ekko-osdi/</link>
+      <pubDate>Fri, 18 Mar 2022 13:35:37 +0100</pubDate>
+      <guid>https://luomai.github.io/post/22-ekko-osdi/</guid>
+      <description>&lt;p&gt;Our Paper &amp;ldquo;Ekko: A Large-Scale Deep Learning Recommender System with Low-Latency Model Update&amp;rdquo; is accepted by USENIX Symposium on Operating Systems Design and Implementation (OSDI) 2022. OSDI is a highly selective flagship conference in computer science, especially on the topic of computer systems. &lt;strong&gt;This year, there were only 2 accepted papers from UK institutes.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OSDI brings together professionals from academic and industrial backgrounds in what has become a premier forum for discussing the design, implementation, and implications of systems software. The symposium emphasizes innovative research as well as quantified or insightful experiences in systems design and implementation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quiver is open-sourced</title>
+      <link>https://luomai.github.io/post/21-quiver-opensource/</link>
+      <pubDate>Sun, 31 Oct 2021 13:45:55 +0100</pubDate>
+      <guid>https://luomai.github.io/post/21-quiver-opensource/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://github.com/quiver-team/torch-quiver&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quiver&lt;/a&gt; is a distributed graph learning library for 
+&lt;a href=&#34;https://github.com/pyg-team/pytorch_geometric&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyTorch Geometric&lt;/a&gt; (PyG). Its excellent performance and scalability has made it quickly become the &lt;strong&gt;recommended&lt;/strong&gt; distributed library for PyG.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HyperPose and RLzoo in open-source software competition</title>
+      <link>https://luomai.github.io/post/21-hyperpose-rlzoo-accept-news/</link>
+      <pubDate>Sun, 15 Aug 2021 13:35:37 +0100</pubDate>
+      <guid>https://luomai.github.io/post/21-hyperpose-rlzoo-accept-news/</guid>
+      <description>&lt;p&gt;HyperPose and RLzoo are both accepted to the Open-source Software Competition in ACM Multimedia 2021. ACM Multimedia is the worldwide premier conference and a key world event to display scientific achievements and innovative industrial products in the multimedia field.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited lecture at the Oxford ML summer school</title>
+      <link>https://luomai.github.io/post/21-oxfordml-news/</link>
+      <pubDate>Sat, 31 Jul 2021 13:45:55 +0100</pubDate>
+      <guid>https://luomai.github.io/post/21-oxfordml-news/</guid>
+      <description>&lt;p&gt;I am honored to give a lecture about AI/ML systems at the prestigious 
+&lt;a href=&#34;https://www.oxfordml.school&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oxford Machine Learning Summer School&lt;/a&gt;. The school covers some of the most important topics in ML/DL that the field is showing a growing interest in (e.g., Bayesian ML, representation learning, computer vision, natural language processing (NLP), reinforcement learning, causal ML, and transfer learning).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited talks at TikTok, SenseTime, Tencent and SIGMOD.</title>
+      <link>https://luomai.github.io/post/21-summer-invited-talks-news/</link>
+      <pubDate>Thu, 10 Jun 2021 13:45:55 +0100</pubDate>
+      <guid>https://luomai.github.io/post/21-summer-invited-talks-news/</guid>
+      <description>&lt;p&gt;I am excited to give talks about future AI/Data systems at TikTok, SenseTime, Tencent and SIGMOD Enterprise Database Workshop 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KungFu to appear at OSDI 2020</title>
+      <link>https://luomai.github.io/post/20-kungfu-accept-news/</link>
+      <pubDate>Tue, 18 Aug 2020 13:35:37 +0100</pubDate>
+      <guid>https://luomai.github.io/post/20-kungfu-accept-news/</guid>
+      <description>&lt;p&gt;Our Paper &amp;ldquo;KungFu: Making Training in Distributed Machine Learning Adaptive&amp;rdquo; is accepted by USENIX Symposium on Operating Systems Design and Implementation (OSDI) 2020. OSDI is a highly selective flagship conference in computer science, especially on the topic of computer systems.&lt;/p&gt;
+&lt;p&gt;OSDI brings together professionals from academic and industrial backgrounds in what has become a premier forum for discussing the design, implementation, and implications of systems software. The symposium emphasizes innovative research as well as quantified or insightful experiences in systems design and implementation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cameo to appear at NSDI 2021</title>
+      <link>https://luomai.github.io/post/21-cameo-accept-news/</link>
+      <pubDate>Sun, 05 Jul 2020 13:45:55 +0100</pubDate>
+      <guid>https://luomai.github.io/post/21-cameo-accept-news/</guid>
+      <description>&lt;p&gt;Our Paper &amp;ldquo;Move Fast and Meet Deadlines: Fine-grained Real-time Stream Processing with Cameo&amp;rdquo; is accepted by USENIX Symposium on Networked Systems Design and Implementation (NSDI) 2021.&lt;/p&gt;
+&lt;p&gt;NSDI focuses on the design principles, implementation, and practical evaluation of networked and distributed systems. Its goal is to bring together researchers from across the networking and systems community to foster a broad approach to addressing overlapping research challenges.&lt;/p&gt;
+&lt;p&gt;NSDI provides a high-quality forum for presenting results and discussing ideas that further the knowledge and understanding of the networked systems community as a whole, continue a significant research dialog, or push the architectural boundaries of network services.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited talk in the AI systems workshop at SOSP 2019</title>
+      <link>https://luomai.github.io/post/19-talk-sosp/</link>
+      <pubDate>Tue, 05 Nov 2019 13:53:37 +0100</pubDate>
+      <guid>https://luomai.github.io/post/19-talk-sosp/</guid>
+      <description>&lt;p&gt;I am invited to give a talk: &amp;ldquo;Adaptive Distributed Training of Deep Learning Models&amp;rdquo; in the Workshop on AI Systems at ACM Symposium on Operating Systems Principles (SOSP) 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

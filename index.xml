@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luo Mai</title>
+    <link>https://luomai.github.io/</link>
+      <atom:link href="https://luomai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luo Mai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://luomai.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Luo Mai</title>
+      <link>https://luomai.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Ekko: A Large-Scale Deep Learning Recommender System with Low-Latency Model Update</title>
+      <link>https://luomai.github.io/publication/2022-osdi-ekko/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2022-osdi-ekko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TorchOpt and papers are accepted to NeurIPS 2022</title>
+      <link>https://luomai.github.io/post/22-settling-neurips/</link>
+      <pubDate>Sat, 10 Sep 2022 13:35:37 +0100</pubDate>
+      <guid>https://luomai.github.io/post/22-settling-neurips/</guid>
+      <description>&lt;p&gt;Our paper &amp;ldquo;A Theoretical Understanding of Gradient Bias in Meta-Reinforcement Learning&amp;rdquo; is accepted by NeurIPS 2022. This paper is based on our recently released system for differential optimisation: 
+&lt;a href=&#34;https://github.com/metaopt/torchopt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TorchOpt&lt;/a&gt;. TorchOpt is accepted as a paper by the 14th International Workshop for Optimization for Machine Learning (OPT) co-located with NeurIPS 2022.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Theoretical Understanding of Gradient Bias in Meta-Reinforcement Learning</title>
+      <link>https://luomai.github.io/publication/2022-neurips-settling/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2022-neurips-settling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TorchOpt: An Efficient library for Differentiable Optimization</title>
+      <link>https://luomai.github.io/publication/2022-neurips-torchopt/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2022-neurips-torchopt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MegBA: A GPU-Based Distributed Library for Large-Scale Bundle Adjustment</title>
+      <link>https://luomai.github.io/publication/2022-eccv-megba/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2022-eccv-megba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MegBA in ECCV 2022</title>
+      <link>https://luomai.github.io/post/22-megba-eccv/</link>
+      <pubDate>Sun, 10 Jul 2022 13:35:37 +0100</pubDate>
+      <guid>https://luomai.github.io/post/22-megba-eccv/</guid>
+      <description>&lt;p&gt;Our Paper &amp;ldquo;MegBA: A GPU-Based Distributed Library for Large-Scale Bundle Adjustment&amp;rdquo; is accepted by ECCV 2022. ECCV is considered to be one of the top conferences in computer vision, alongside CVPR and ICCV.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ekko in OSDI 2022</title>
+      <link>https://luomai.github.io/post/22-ekko-osdi/</link>
+      <pubDate>Fri, 18 Mar 2022 13:35:37 +0100</pubDate>
+      <guid>https://luomai.github.io/post/22-ekko-osdi/</guid>
+      <description>&lt;p&gt;Our Paper &amp;ldquo;Ekko: A Large-Scale Deep Learning Recommender System with Low-Latency Model Update&amp;rdquo; is accepted by USENIX Symposium on Operating Systems Design and Implementation (OSDI) 2022. OSDI is a highly selective flagship conference in computer science, especially on the topic of computer systems. &lt;strong&gt;This year, there were only 2 accepted papers from UK institutes.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OSDI brings together professionals from academic and industrial backgrounds in what has become a premier forum for discussing the design, implementation, and implications of systems software. The symposium emphasizes innovative research as well as quantified or insightful experiences in systems design and implementation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Move Fast and Meet Deadlines: Fine-grained Real-time Stream Processing with Cameo</title>
+      <link>https://luomai.github.io/publication/2021-nsdi-cameo/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2021-nsdi-cameo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quiver is open-sourced</title>
+      <link>https://luomai.github.io/post/21-quiver-opensource/</link>
+      <pubDate>Sun, 31 Oct 2021 13:45:55 +0100</pubDate>
+      <guid>https://luomai.github.io/post/21-quiver-opensource/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://github.com/quiver-team/torch-quiver&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quiver&lt;/a&gt; is a distributed graph learning library for 
+&lt;a href=&#34;https://github.com/pyg-team/pytorch_geometric&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyTorch Geometric&lt;/a&gt; (PyG). Its excellent performance and scalability has made it quickly become the &lt;strong&gt;recommended&lt;/strong&gt; distributed library for PyG.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quiver</title>
+      <link>https://luomai.github.io/project/quiver/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/project/quiver/</guid>
+      <description>&lt;p&gt;The primary motivation for the Quiver project is to make it easy to take a PyG script and scale it across many GPUs and CPUs. A typical scenario is: Quiver users can leverage the high-level APIs and rich examples of PyG to design graph learning algorithms, and then use Quiver to scale PyG algorithms to run at large scale. To make such scaling efficient, Quiver has several features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;High performance&lt;/strong&gt;: Quiver enables GPUs to be efficiently used in accelerating performance-critical graph learning tasks: graph sampling, feature collection and data-parallel training. Quiver thus can out-perform PyG and DGL even with a single GPU, especially when processing large-scale datasets and models.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;High scalability&lt;/strong&gt;: Quiver can achieve (super) linear scalability in distributed graph learning. This is contributed by Quiver&amp;rsquo;s novel communication-efficient data/processor management techniques and effective usage of fast networking technologies (e.g., NVLink and RDMA).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Easy to use&lt;/strong&gt;: Quiver requires only a few new lines of code in existing PyG programs and it has no external heavy dependency. Quiver is thus easy to be adopted by PyG users and integrated into production clusters.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HyperPose and RLzoo in open-source software competition</title>
+      <link>https://luomai.github.io/post/21-hyperpose-rlzoo-accept-news/</link>
+      <pubDate>Sun, 15 Aug 2021 13:35:37 +0100</pubDate>
+      <guid>https://luomai.github.io/post/21-hyperpose-rlzoo-accept-news/</guid>
+      <description>&lt;p&gt;HyperPose and RLzoo are both accepted to the Open-source Software Competition in ACM Multimedia 2021. ACM Multimedia is the worldwide premier conference and a key world event to display scientific achievements and innovative industrial products in the multimedia field.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Efficient Reinforcement Learning Development with RLzoo</title>
+      <link>https://luomai.github.io/publication/2021-multimedia-rlzoo/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2021-multimedia-rlzoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and Flexible Human Pose Estimation with HyperPose</title>
+      <link>https://luomai.github.io/publication/2021-multimedia-hyperpose/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2021-multimedia-hyperpose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited lecture at the Oxford ML summer school</title>
+      <link>https://luomai.github.io/post/21-oxfordml-news/</link>
+      <pubDate>Sat, 31 Jul 2021 13:45:55 +0100</pubDate>
+      <guid>https://luomai.github.io/post/21-oxfordml-news/</guid>
+      <description>&lt;p&gt;I am honored to give a lecture about AI/ML systems at the prestigious 
+&lt;a href=&#34;https://www.oxfordml.school&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oxford Machine Learning Summer School&lt;/a&gt;. The school covers some of the most important topics in ML/DL that the field is showing a growing interest in (e.g., Bayesian ML, representation learning, computer vision, natural language processing (NLP), reinforcement learning, causal ML, and transfer learning).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited talks at TikTok, SenseTime, Tencent and SIGMOD.</title>
+      <link>https://luomai.github.io/post/21-summer-invited-talks-news/</link>
+      <pubDate>Thu, 10 Jun 2021 13:45:55 +0100</pubDate>
+      <guid>https://luomai.github.io/post/21-summer-invited-talks-news/</guid>
+      <description>&lt;p&gt;I am excited to give talks about future AI/Data systems at TikTok, SenseTime, Tencent and SIGMOD Enterprise Database Workshop 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KungFu: Making Training in Distributed Machine Learning Adaptive</title>
+      <link>https://luomai.github.io/publication/2020-osdi-kungfu/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2020-osdi-kungfu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KungFu to appear at OSDI 2020</title>
+      <link>https://luomai.github.io/post/20-kungfu-accept-news/</link>
+      <pubDate>Tue, 18 Aug 2020 13:35:37 +0100</pubDate>
+      <guid>https://luomai.github.io/post/20-kungfu-accept-news/</guid>
+      <description>&lt;p&gt;Our Paper &amp;ldquo;KungFu: Making Training in Distributed Machine Learning Adaptive&amp;rdquo; is accepted by USENIX Symposium on Operating Systems Design and Implementation (OSDI) 2020. OSDI is a highly selective flagship conference in computer science, especially on the topic of computer systems.&lt;/p&gt;
+&lt;p&gt;OSDI brings together professionals from academic and industrial backgrounds in what has become a premier forum for discussing the design, implementation, and implications of systems software. The symposium emphasizes innovative research as well as quantified or insightful experiences in systems design and implementation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cameo to appear at NSDI 2021</title>
+      <link>https://luomai.github.io/post/21-cameo-accept-news/</link>
+      <pubDate>Sun, 05 Jul 2020 13:45:55 +0100</pubDate>
+      <guid>https://luomai.github.io/post/21-cameo-accept-news/</guid>
+      <description>&lt;p&gt;Our Paper &amp;ldquo;Move Fast and Meet Deadlines: Fine-grained Real-time Stream Processing with Cameo&amp;rdquo; is accepted by USENIX Symposium on Networked Systems Design and Implementation (NSDI) 2021.&lt;/p&gt;
+&lt;p&gt;NSDI focuses on the design principles, implementation, and practical evaluation of networked and distributed systems. Its goal is to bring together researchers from across the networking and systems community to foster a broad approach to addressing overlapping research challenges.&lt;/p&gt;
+&lt;p&gt;NSDI provides a high-quality forum for presenting results and discussing ideas that further the knowledge and understanding of the networked systems community as a whole, continue a significant research dialog, or push the architectural boundaries of network services.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KungFu</title>
+      <link>https://luomai.github.io/project/kungfu/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/project/kungfu/</guid>
+      <description>&lt;p&gt;Today&amp;rsquo;s machine learning systems must cope with growing complex models and increasingly complicated deployment environments, making them difficult to constantly deliver high performance with an empirical configuration. To address this, KungFu enables machine learning users to realise adaptive distributed training policies using high-level training monitoring and control APIs. KungFu has a fast and scalable runtime which can automatically scale out policy execution onto distributed GPU servers. Large-scale cluster experiments show that KungFu not only enables real-world adaptive training use cases, but also out-performs state-of-the-art distributed training systems including Horovod and Parameters Servers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spotnik: Designing Distributed Machine Learning for Transient Cloud Resources</title>
+      <link>https://luomai.github.io/publication/2020-hotcloud-spotnik/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2020-hotcloud-spotnik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorLayer</title>
+      <link>https://luomai.github.io/project/tensorlayer/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/project/tensorlayer/</guid>
+      <description>&lt;p&gt;TensorLayer is a popular open-source TensorFlow-based deep learning and reinforcement library. It provides rich neural layers, pre-trained neural networks, data processing, model management and distributed training to facilitate the development of a wide spectrum of deep learning algorithms. TensorLayer has a transparent and flexible programming model, and thus suitable to customise deep neural networks for deployment and research purposes. It exhibits superior performance due to the low-cost integration with the TensorFlow backend. TensorLayer is easy to learn by providing massive tutorials, examples and real-world application codes. Since open-sourced in 2017, it has attracted more than 300,000 downloads, 6000 stars on Github, and 90 contributors around the world. TensorLayer is recently awarded the 2017 best open-source software by the prestigious ACM multimedia community.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HyperPose</title>
+      <link>https://luomai.github.io/project/hyperpose/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/project/hyperpose/</guid>
+      <description>&lt;p&gt;Estimating human pose is a core task in many multimedia applications.
+To fully achieve its promise,
+users often need to customise pose estimation systems for
+best possible accuracy, and optimise the systems so that they can achieve real-time processing
+of high-resolution video streams.
+To meet these needs, we introduce HyperPose, a library for building pose estimation systems.
+HyperPose provides a large collection of high-level APIs to help
+users develop pose estimation algorithms that can achieve high
+accuracy in the wild.
+HyperPose further provides a high-performance algorithm execution engine.
+This engine has a high-performance dataflow for
+executing pose estimation algorithms. It dynamically
+dispatches dataflow operators onto CPUs/GPUs, which maximises
+hardware efficiency, thus achieving real-time processing. Evaluation result show that HyperPose allows users
+to declare many useful pose estimation algorithms. It also
+out-performs the performance of state-of-the-art pose estimation systems by up to 3.1x.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited talk in the AI systems workshop at SOSP 2019</title>
+      <link>https://luomai.github.io/post/19-talk-sosp/</link>
+      <pubDate>Tue, 05 Nov 2019 13:53:37 +0100</pubDate>
+      <guid>https://luomai.github.io/post/19-talk-sosp/</guid>
+      <description>&lt;p&gt;I am invited to give a talk: &amp;ldquo;Adaptive Distributed Training of Deep Learning Models&amp;rdquo; in the Workshop on AI Systems at ACM Symposium on Operating Systems Principles (SOSP) 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SOSP AI Systems Workshop</title>
+      <link>https://luomai.github.io/talk/2019-kungfu-sosp/</link>
+      <pubDate>Sun, 27 Oct 2019 13:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/talk/2019-kungfu-sosp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CrossBow: Scaling Deep Learning with Small Batch Sizes on Multi-GPU Servers</title>
+      <link>https://luomai.github.io/publication/2019-vldb-crossbow/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2019-vldb-crossbow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RLzoo</title>
+      <link>https://luomai.github.io/project/rlzoo/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/project/rlzoo/</guid>
+      <description>&lt;p&gt;Deep Reinforcement Learning (DRL) has become the foundation of many multimedia applications. To fully achieve its promise, multi-media users are looking for a library that allows them to efficiently design and test DRL agents and integrate the agents into their ap-plications. In this project, we introduce RLzoo, a novel DRL library that makes it easy to design, test and deploy DRL agents. RLzoo has high-level expressive APIs which enable its users to efficiently develop DRL agents. RLzoo users can leverage an automatic agent construction algorithm to seamlessly adopt custom agent modules,e.g., custom neural networks, which is the key for tuning agents for achieving the best possible performance. RLzoo users can access a large number of pre-implemented DRL environments and algorithms, making it a comprehensive DRL platform. On this platform,users can further easily manage and tune DRL agents through an interactive training terminal. Evaluation results show that: com-pared to existing DRL libraries, RLzoo not only achieves a high degree of abstraction in its API design. It also provides numerous useful DRL algorithms and environments which are not available in other libraries.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CrossBow</title>
+      <link>https://luomai.github.io/project/crossbow/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/project/crossbow/</guid>
+      <description>&lt;p&gt;Deep learning models are trained on servers with many GPUs, and training must scale with the number of GPUs. Systems such as TensorFlow and Caffe2 train models with parallel synchronous stochastic gradient descent: they process a batch of training data at a time, partitioned across GPUs, and average the resulting partial gradients to obtain an updated global model. To fully utilise all GPUs, systems must increase the batch size, which hinders statistical efficiency. Users tune hyper-parameters such as the learning rate to compensate for this, which is complex and model-specific.
+We introduce Crossbow, a new single-server multi-GPU system for training deep learning models that enables users to freely choose their preferred batch size&amp;mdash;however small&amp;mdash;while scaling to multiple GPUs. Crossbow uses many parallel model replicas and avoids reduced statistical efficiency through a new synchronous training method. We introduce SMA, a synchronous variant of model averaging in which replicas independently explore the solution space with gradient descent, but adjust their search synchronously based on the trajectory of a globally-consistent average model. Crossbow achieves high hardware efficiency with small batch sizes by potentially training multiple model replicas per GPU, automatically tuning the number of replicas to maximise throughput. our experiments show that Crossbow improves the training time of deep learning models on an 8-GPU server by 1.3&amp;ndash;4X compared to TensorFlow.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taming Hyper-parameters in Deep Learning Systems</title>
+      <link>https://luomai.github.io/publication/2019-osr-review/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2019-osr-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Developer Festival</title>
+      <link>https://luomai.github.io/talk/2018-google-devfest/</link>
+      <pubDate>Sat, 01 Dec 2018 13:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/talk/2018-google-devfest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chi: A Scalable and Programmable Control Plane for Distributed Stream Processing Systems</title>
+      <link>https://luomai.github.io/publication/2018-vldb-chi/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2018-vldb-chi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emu: Rapid Prototyping of Networking Services</title>
+      <link>https://luomai.github.io/publication/2017-atc-emu/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2017-atc-emu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorLayer: A Versatile Library for Efficient Deep Learning Development</title>
+      <link>https://luomai.github.io/publication/2017-multimedia-tensorlayer/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2017-multimedia-tensorlayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flick: Developing and Running Application-specific Network Services </title>
+      <link>https://luomai.github.io/publication/2016-atc-flick/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2016-atc-flick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Network Marketplace in a Cloud</title>
+      <link>https://luomai.github.io/publication/2016-hotcloud-netex/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2016-hotcloud-netex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Network Performance in Distributed Machine Learning</title>
+      <link>https://luomai.github.io/publication/2015-hotcloud-mlnet/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2015-hotcloud-mlnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NetAgg: Using Middleboxes for Application-specific On-path Aggregation in Data Centres</title>
+      <link>https://luomai.github.io/publication/2014-conext-netagg/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2014-conext-netagg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Time-malleability in Cloud-based Batch Processing Systems</title>
+      <link>https://luomai.github.io/publication/2013-ladis-mai/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2013-ladis-mai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Load Balanced Rendezvous Data Collection in Wireless Sensor Networks</title>
+      <link>https://luomai.github.io/publication/2011-mass-mai/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2011-mass-mai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

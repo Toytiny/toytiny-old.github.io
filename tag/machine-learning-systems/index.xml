@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning Systems | Luo Mai</title>
+    <link>https://luomai.github.io/tag/machine-learning-systems/</link>
+      <atom:link href="https://luomai.github.io/tag/machine-learning-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning Systems</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://luomai.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine Learning Systems</title>
+      <link>https://luomai.github.io/tag/machine-learning-systems/</link>
+    </image>
+    
+    <item>
+      <title>Ekko: A Large-Scale Deep Learning Recommender System with Low-Latency Model Update</title>
+      <link>https://luomai.github.io/publication/2022-osdi-ekko/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2022-osdi-ekko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Theoretical Understanding of Gradient Bias in Meta-Reinforcement Learning</title>
+      <link>https://luomai.github.io/publication/2022-neurips-settling/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2022-neurips-settling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TorchOpt: An Efficient library for Differentiable Optimization</title>
+      <link>https://luomai.github.io/publication/2022-neurips-torchopt/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2022-neurips-torchopt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MegBA: A GPU-Based Distributed Library for Large-Scale Bundle Adjustment</title>
+      <link>https://luomai.github.io/publication/2022-eccv-megba/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2022-eccv-megba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Reinforcement Learning Development with RLzoo</title>
+      <link>https://luomai.github.io/publication/2021-multimedia-rlzoo/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2021-multimedia-rlzoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and Flexible Human Pose Estimation with HyperPose</title>
+      <link>https://luomai.github.io/publication/2021-multimedia-hyperpose/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2021-multimedia-hyperpose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KungFu: Making Training in Distributed Machine Learning Adaptive</title>
+      <link>https://luomai.github.io/publication/2020-osdi-kungfu/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2020-osdi-kungfu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spotnik: Designing Distributed Machine Learning for Transient Cloud Resources</title>
+      <link>https://luomai.github.io/publication/2020-hotcloud-spotnik/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2020-hotcloud-spotnik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CrossBow: Scaling Deep Learning with Small Batch Sizes on Multi-GPU Servers</title>
+      <link>https://luomai.github.io/publication/2019-vldb-crossbow/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2019-vldb-crossbow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taming Hyper-parameters in Deep Learning Systems</title>
+      <link>https://luomai.github.io/publication/2019-osr-review/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2019-osr-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorLayer: A Versatile Library for Efficient Deep Learning Development</title>
+      <link>https://luomai.github.io/publication/2017-multimedia-tensorlayer/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2017-multimedia-tensorlayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Network Performance in Distributed Machine Learning</title>
+      <link>https://luomai.github.io/publication/2015-hotcloud-mlnet/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://luomai.github.io/publication/2015-hotcloud-mlnet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -579,10 +579,6 @@
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
-      <li class="nav-item">
-        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
-      </li>
-      
 
       
       <li class="nav-item dropdown theme-dropdown">
@@ -691,7 +687,7 @@
 
       
       
-      <img class="avatar avatar-circle" width="240" height="240" src="/author/fangqiang-ding/myphoto.jpg" alt="Fangqiang Ding">
+      <img class="avatar avatar-circle" width="240" height="240" src="/images/myphoto.jpg" alt="Fangqiang Ding">
       
 
       <div class="portrait-title">
@@ -815,6 +811,8 @@ My previous research includes visual tracking, UAV localization and adversarial 
           <li>Computer Vision</li>
           
         </ul>
+        <!--EndFragment-->
+        <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/uploads/resume.pdf" target="_blank">resumé</a>.
       </div>
       
 
@@ -1731,7 +1729,29 @@ Supp
   <div class="col-12 col-lg-8">
     
 
-    
+    <div class="mb-3">
+    <form name="contact" method="POST" netlify netlify-honeypot="_gotcha"  >
+      <div class="form-group form-inline">
+        <label class="sr-only" for="inputName">Name</label>
+        <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
+      </div>
+      <div class="form-group form-inline">
+        <label class="sr-only" for="inputEmail">Email</label>
+        <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required>
+      </div>
+      <div class="form-group">
+        <label class="sr-only" for="inputMessage">Message</label>
+        <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
+      </div>
+      
+      <div class="d-none">
+        <label>Do not fill this field unless you are a bot: <input name="_gotcha"></label>
+      </div>
+      
+      <button type="submit" class="btn btn-primary px-3 py-2 w-100">Send</button>
+    </form>
+  </div>
+
 
     <ul class="fa-ul">
 
@@ -1752,8 +1772,21 @@ Supp
           <span id="person-address">Bayes Centre, University of Edinburgh, Edinburgh, EH8 9BT</span>
         </li>
       
+        
+        <li>
+          <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
+          <span>Office 1.01</span>
+        </li>
+  
+
+  
 
       
+      <li>
+        <i class="fa-li fab fa-microsoft fa-2x" aria-hidden="true"></i>
+        <a href="https://teams.microsoft.com/l/chat/0/0?users=s2207427@ed.ac.uk" target="_blank" rel="noopener">Chat with me on Microsoft Teams</a>
+      </li>
+  
 
       
 
@@ -1764,7 +1797,16 @@ Supp
 
     </ul>
 
-    
+    <div class="d-none">
+    <input id="map-provider" value="mapnik">
+    <input id="map-lat" value="55.9448">
+    <input id="map-lng" value="-3.1874">
+    <input id="map-dir" value="10 Crichton St, Edinburgh, EH8 9AB">
+    <input id="map-zoom" value="15">
+    <input id="map-api-key" value="">
+    </div>
+    <div id="map"></div>
+    </div>
 
   </div>
 </div>
